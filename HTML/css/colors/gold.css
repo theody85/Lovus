@@ -1,4 +1,4 @@
-/* default color: #125432  */
+/* default color: #0F371E  */
 .bg-color,
 section.bg-color,
 section.call-to-action,
@@ -62,7 +62,8 @@ span.overlay,
 .pricing-s1 .ribbon,
 .social-icons-sm i:hover,
 .overlay-v i:before {
-  background-color: #125432;
+  /* background-image: url('./background.jpg'); */
+  background-color: #0f371e;
 }
 
 .feature-box i,
@@ -122,7 +123,7 @@ h2.hs1 span,
 .pricing-s1 .top .price .currency,
 header div#logo h2 span,
 #menu-btn {
-  color: #125432;
+  color: #0f371e;
 }
 
 .feature-box i,
@@ -149,7 +150,7 @@ a.btn-line.hover,
 .de_tab.tab_steps.style-2 .de_nav li.active span,
 #filters a.selected,
 .box-border {
-  border-color: #125432;
+  border-color: #0f371e;
 }
 
 .box-fx .inner,
@@ -168,30 +169,30 @@ a.btn-line.hover,
 .form-underline textarea:focus,
 .form-underline input[type='email']:focus,
 .form-underline select:focus {
-  border-bottom-color: #125432;
+  border-bottom-color: #0f371e;
 }
 
 .arrow-down,
 .preloader1 {
-  border-top-color: #125432;
+  border-top-color: #0f371e;
 }
 
 .callbacks_nav {
-  background-color: #125432;
+  /* background-image: url('./background.jpg'); */
 }
 
 .de_tab .de_nav li span {
-  border-top: 3px solid #125432;
+  border-top: 3px solid #0f371e;
 }
 
 .feature-box-big-icon i:after {
-  border-color: #125432 transparent; /*same colour as the lower of the bubble's gradient*/
+  border-color: #0f371e transparent; /*same colour as the lower of the bubble's gradient*/
 }
 
 .de_review li.active img {
-  border: solid 4px #125432;
+  border: solid 4px #0f371e;
 }
 
 blockquote {
-  border-left-color: #125432;
+  border-left-color: #0f371e;
 }
